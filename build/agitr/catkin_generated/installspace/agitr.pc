@@ -1,0 +1,8 @@
+prefix=/home/tilemahos/ROS_workspace/install
+
+Name: agitr
+Description: Description of agitr
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/tilemahos/ROS_workspace/install/lib 
+Requires: 

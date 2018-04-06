@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/tilemahos/ROS_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/tilemahos/ROS_workspace/install -G Unix Makefiles
